@@ -1,2 +1,0 @@
-# QuickCode
-Quick code tips.
